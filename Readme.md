@@ -70,7 +70,7 @@ To use this application on your mobile device, you can run it using Pydroid:
 4. **Access the app:**
    - Open your mobile browser and go to:
      ```
-     http://localhost:5000
+     http://<IPv4 Address>:5000
      ```
 
 ### Customizing
