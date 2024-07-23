@@ -73,8 +73,14 @@ To use this application on your mobile device, you can run it using Pydroid:
      http://<IPv4 Address>:5000
      ```
 
+5. **Ensure that your PC and mobile device are connected to the same network.** Open your mobile browser and go to the IPv4 address of your PC running the Flask app:
+   ```
+   http://(IPv4 Address):5000
+   
+
 ### Customizing
 Feel free to customize the file types, root directory, and templates to fit your needs.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
+
